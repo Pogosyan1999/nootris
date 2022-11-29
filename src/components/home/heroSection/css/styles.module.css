@@ -1,0 +1,48 @@
+.container{
+    width: 100%;
+    height: 800px;
+    background:url('../../../../img/bg.png') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.blog1{
+    width:60%;
+}
+
+.title{
+    margin-top: 95px;
+    position: relative;
+    z-index: 1;
+    padding: 0;
+    margin-bottom: 0;
+    color:#fff;
+    font-size: 120px;
+    font-weight: 700;
+}
+
+.text1{
+    font-size: 20px;
+}
+
+.minTitle{
+    margin-top: 120px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #000;
+    margin-bottom: 0;
+}
+
+.text2{
+    font-size: 18px;
+}
+
+.blog2{
+    width: 40%;
+    
+}
+
+.blog2 img{
+  margin-left: -300px;
+  margin-top: -110px;
+}

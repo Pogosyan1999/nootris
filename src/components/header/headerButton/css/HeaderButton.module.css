@@ -1,0 +1,29 @@
+.icon{
+    width:5%;
+    height: max-content;
+    display: flex;
+    justify-content: end;
+    position: relative;
+}
+
+.icon a{
+    font-size: 28px;
+    color: #fff;
+}
+
+.cart{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: yellow;
+    bottom: 0px;
+    right: -5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+}
+
+
+
