@@ -1,0 +1,40 @@
+.blog1{
+    width:15%;
+}
+
+
+
+.blog2{
+    width: 40%;
+}
+
+.blog1 img,.blog2 img{
+    width: 100%;
+}
+
+.text1{
+    width: 90%;
+    margin: 70px auto;
+    color:#fff;
+    text-align: center;
+    font-size: 18px;
+}
+
+.text1 span{
+    color: yellow;
+}
+
+.title{
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+   
+}
+
+.text2{
+    font-size: 24px;
+    text-align: center;
+    color: yellow;
+    margin-top: -10px;
+}

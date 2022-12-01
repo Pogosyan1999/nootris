@@ -1,0 +1,75 @@
+@media only screen and (max-width: 1200px) {
+    .title {
+     font-size: 36px;
+     width: 55%;
+    }
+
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .title {
+     font-size: 30px;
+     width: 50%;
+     
+    }
+
+  }
+
+  @media only screen and (max-width: 992px) {
+    .title {
+     width: 60%;
+     
+    }
+
+  }
+
+  @media only screen and (max-width: 800px) {
+    .title {
+     width: 65%;
+    }
+
+  }
+
+  @media only screen and (max-width: 767px) {
+    .title {
+     width: 70%;
+    }
+
+  }
+
+  @media only screen and (max-width: 667px) {
+    .title {
+    font-size: 25px;
+    }
+
+  }
+
+  @media only screen and (max-width: 575px) {
+    .title {
+    font-size: 20px;
+    width: 65%;
+    }
+
+  }
+
+  @media only screen and (max-width: 500px) {
+    .title {
+     width: 75%;
+     font-size: 16px;
+    }
+
+  }
+
+  @media only screen and (max-width: 360px) {
+    .title {
+     width: 80%;
+    }
+
+  }
+
+  @media only screen and (max-width: 320px) {
+    .title {
+     width: 90%;
+    }
+
+  }

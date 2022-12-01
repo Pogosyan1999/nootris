@@ -1,0 +1,17 @@
+.btn{
+    width: 256px;
+    height: 56px;
+    background: #FCB500;
+    border-radius: 7px;
+    border: 1px solid #FCB500;
+    cursor: pointer;
+    margin:  60px auto 0;
+    display: block;
+    font-size: 18px;
+    transition: .3s;
+}
+
+.btn:hover{
+    background: none;
+    color: #FCB500;
+}

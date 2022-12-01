@@ -1,0 +1,61 @@
+@media only screen and (max-width: 1024px) {
+    .price1 {
+     font-size: 30px;
+    }
+
+    .price2 {
+        font-size: 40px;
+       }
+
+  }
+
+  @media only screen and (max-width: 800px) {
+    .container{
+        width: 200px;
+       
+    }
+    .price1 {
+     font-size: 25px;
+    }
+
+    .price2 {
+        font-size: 35px;
+       }
+
+  }
+
+  @media only screen and (max-width: 667px) {
+   
+    .price1 {
+     font-size: 22px;
+    }
+
+    .price2 {
+        font-size: 30px;
+       }
+
+  }
+
+  @media only screen and (max-width: 575px) {
+    .container{
+        width: 180px;
+       
+    }
+
+  }
+
+  @media only screen and (max-width: 500px) {
+    .container{
+        width: 150px;
+       
+    }
+
+    .price1 {
+        font-size: 18px;
+       }
+   
+       .price2 {
+           font-size: 25px;
+          }
+
+  }

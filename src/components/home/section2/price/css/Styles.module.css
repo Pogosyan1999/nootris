@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    width: 250px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px auto;
+}
+
+.price1{
+    font-size: 36px;
+    color: #adadad;
+    text-decoration: line-through;
+}
+
+.price2{
+    font-size: 48px;
+    color: #fff
+}
